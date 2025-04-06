@@ -1,4 +1,3 @@
-
 export interface BlogPost {
   id: string;
   title: string;
@@ -94,8 +93,8 @@ Remember that mindfulness is called a "practice" for a reason—it takes consist
     coverImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=2000",
     date: "March 25, 2025",
     author: {
-      name: "Elena Mitchell",
-      avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=150&h=150",
+      name: "Vedant Karekar",
+      avatar: "public/Vedant_karekar.png",
     },
     category: "Wellness",
     readTime: "6 min read",
@@ -193,7 +192,7 @@ Remember that perfect sustainability isn't the goal; instead, focus on progress 
     coverImage: "https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=2000",
     date: "March 18, 2025",
     author: {
-      name: "Marco Perez",
+      name: "Vedant Karekar",
       avatar: "https://images.unsplash.com/photo-1566492031773-4f4e44671857?q=80&w=150&h=150",
     },
     category: "Travel",
@@ -315,8 +314,8 @@ Rather than fearing change, embrace the potential of new work models to create m
     coverImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2000",
     date: "March 12, 2025",
     author: {
-      name: "Aisha Johnson",
-      avatar: "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=150&h=150",
+      name: "Vedant Karekar",
+      avatar: "public/Vedant_karekar.png",
     },
     category: "Career",
     readTime: "8 min read",

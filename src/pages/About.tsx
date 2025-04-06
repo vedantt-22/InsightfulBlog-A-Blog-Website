@@ -1,8 +1,8 @@
-
+import { FC } from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
-const About = () => {
+const About: FC = () => {
   return (
     <div className="min-h-screen flex flex-col">
       <Navbar />
@@ -55,27 +55,11 @@ const About = () => {
                   <strong>Engaging:</strong> Important topics deserve good writing. We craft our articles to be clear, compelling, and enjoyable to read.
                 </li>
               </ul>
-              
-              <h2>Meet Our Team</h2>
-              
-              <h3>Elena Mitchell</h3>
+              <h3>Vedant Karekar</h3>
               <p>
-                Elena has a background in psychology and mindfulness practice. She brings research-backed approaches to wellness
-                topics while making them accessible and practical for everyday life.
+                Vedant has a background in technology and content creation. He brings innovative approaches to blogging
+                while making them accessible and practical for everyday readers.
               </p>
-              
-              <h3>Marco Perez</h3>
-              <p>
-                An avid traveler who has visited over 40 countries, Marco writes about sustainable tourism, cultural
-                experiences, and the transformative potential of travel.
-              </p>
-              
-              <h3>Aisha Johnson</h3>
-              <p>
-                With 15 years of experience in HR and organizational development, Aisha explores the changing landscape
-                of work and careers, helping readers navigate professional challenges and opportunities.
-              </p>
-              
               <h2>Get In Touch</h2>
               <p>
                 We love hearing from our readers! Whether you have feedback on an article, a topic suggestion,
